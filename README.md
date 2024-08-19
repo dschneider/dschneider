@@ -9,9 +9,9 @@
 
 I am currently on a sabbatical, working on various little hobby projects and taking a break.
 
-My previous job was at [Pitch](https://www.pitch.com) as a Senior Software Engineer, writing functional code with the Clojure programming language both in the frontend and the backend.
+In my previous role at [Pitch](https://www.pitch.com), I worked as a Senior Software Engineer, writing functional code in Clojure for both the frontend and backend.
 
-I am specialized in backend development using many different programming languages, API development, PostgreSQL and Billing (Stripe and Adyen). I am passionate about Software Engineering and have been writing code for over 18 years.
+I specialize in backend development across various programming languages, API development, PostgreSQL, and billing systems (Stripe and Adyen). With over 18 years of coding experience, I am passionate about Software Engineering and continuously strive to hone my craft.
 
 ### A Quick Overview
 
